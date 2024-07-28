@@ -1,0 +1,1 @@
+Permet un suivi des dons de chacun dans la cagnotte.
